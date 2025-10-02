@@ -25,5 +25,7 @@ class Program
         Rectangle rectangle2 = new Rectangle(7.5, 3.2);
         Console.WriteLine($"Rektangel 2: Bredd = {rectangle2.Width}, Höjd = {rectangle2.Height}");
         Console.WriteLine($"Yta = {rectangle2.Area}");
+        Console.WriteLine("Test! För git");
     }
 }
+
