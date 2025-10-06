@@ -18,7 +18,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Rectangle rectangle1 = new Rectangle(10, 5);
+        Rectangle rectangle1 = new Rectangle(15, 5);
         Console.WriteLine($"Rektangel 1: Bredd = {rectangle1.Width}, Höjd = {rectangle1.Height}");
         Console.WriteLine($"Yta = {rectangle1.Area}");
 
